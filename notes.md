@@ -1,7 +1,7 @@
 
 ## Download
 
-git clone git@github.com:VCauthon/Fooocus.git
+git clone git@github.com:VCauthon/Fooocus.git ~/Workspace/fooocus
 
 ## Installation
 
